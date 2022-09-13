@@ -11,4 +11,4 @@ print(f'O valor gasto com o carro foi:')
 print(f'Valor de diaria:R$ {valordias}')
 print(f'Valor de KM gastos:R$ {valorkm}')
 
-print(f'Portanto o valor total gasto foi de:R$ {valorkm+valordias}')
+print(f'Portanto o valor total gasto foi de: R$ {valorkm+valordias}')
