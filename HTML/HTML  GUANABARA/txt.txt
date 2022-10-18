@@ -1,1 +1,0 @@
-click + espaço entre as (") do img= para abrir diretorios da pasta do html
